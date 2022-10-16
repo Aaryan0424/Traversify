@@ -75,4 +75,4 @@ Our project falls under the category of travel and tourism.  We are enriching th
 
 </br>
 
-Have a immersive experience here : https://634bbd2647ed834d47df0b28--extraordinary-capybara-8cb80d.netlify.app/
+Have a immersive experience here : https://extraordinary-capybara-8cb80d.netlify.app/

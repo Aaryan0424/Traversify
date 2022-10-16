@@ -234,27 +234,32 @@ section#welcome-text p{
     font-weight: 700;
     transition: all 0.5s ease;
 }
+.slideaa{
+    
+    color: #fff;
+    
+}
 
 .slide_2{ 
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/recipe_slides/recipe1.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/prague.jpg);
 }
 .slide_3{ 
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/recipe_slides/recipe2.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/bali.jpg);
 }
 .slide_4{ 
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/recipe_slides/recipe3.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/london.jpg);
 }
 .slide_5{ 
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/recipe_slides/recipe4.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/grandcanyon.jpg);
 }
 .slide_6{ 
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/recipe_slides/recipe5.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/tajmahal.jpg);
 }
 .slide_7{ 
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/recipe_slides/recipe6.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/rome.jpg);
 }
 .slide_8{ 
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/recipe_slides/recipe7.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/qutubminar.jpg);
 }
 /* book section */
 #book{
